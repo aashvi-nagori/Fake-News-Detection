@@ -1,5 +1,5 @@
 # Fake News Detection Using Machine Learning
-## Overview<img width="980" height="211" alt="Importing libraries" src="https://github.com/user-attachments/assets/7f69e18b-b49f-4324-9b0b-cd37488268ec" />
+## Overview
 
 Fake news spreads quickly on social media and online platforms, misleading people and causing confusion. This project uses Natural language processing (NLP) and machine learning classification algorithms for detecting whether a news article is real or fake automatically. 
 The system can help users identify trustworthy news efficiently.
