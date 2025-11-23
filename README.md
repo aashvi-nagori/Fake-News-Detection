@@ -18,7 +18,7 @@ The system can help users identify trustworthy news efficiently.
 ## Steps to Install & Run the Project
  1. Clone the repository:
     git clone
-    https://github.com/aashvi-nagori/FakeNewsDetection.git
+    https://github.com/aashvi-nagori/Fake-News-Detection.git
  2. Open the project in Google Colab or Jupyter Notebook
  3. Make sure the following libraries are installed:
     pip install pandas numpy
