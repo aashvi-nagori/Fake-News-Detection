@@ -34,7 +34,9 @@ The system can help users identify trustworthy news efficiently.
  1. The project contains a test dataset ('test.csv') to check model performance.
  2. Users can also input custom news text in the notebook.
  3. After running the notebook, the model predicts whether the input news is Real or Fake.
- 4. The notebook also displays accuracy, confusion matrix, and other evaluation matrices. 
+ 4. The notebook also displays accuracy, confusion matrix, and other evaluation matrices.
+## Screenshots
+   The screenshots of the codes are as follows:
      
 <img width="1340" height="386" alt="Installing libraries" src="https://github.com/user-attachments/assets/91c89fc9-eb80-4c2c-8b85-74692ba49761" />
 <img width="980" height="211" alt="Importing libraries" src="https://github.com/user-attachments/assets/5da646cf-6d06-4a4c-82cc-cbad6ae5f127" />
